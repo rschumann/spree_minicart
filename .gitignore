@@ -1,3 +1,4 @@
+.bundle
 \#*
 *~
 .#*
@@ -11,4 +12,5 @@ spec/dummy
 Gemfile.lock
 .rvmrc
 spree_minicart-*.gem
-.sass-cache
+/.sass-cache/
+.project
